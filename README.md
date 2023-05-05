@@ -1,1 +1,1 @@
-# HR-Analytics
+A visual representation of the indicators that an HR manager must monitor in order to assess the effectiveness of various organisational departments is called an HR Dashboard. The company performance dashboard, marketing dashboard, sales dashboard, and finance dashboard are also included, in addition to the personnel records.
